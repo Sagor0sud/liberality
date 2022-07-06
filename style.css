@@ -5,6 +5,7 @@ body {
 
 .main-header {
     display: flex;
+    margin-bottom: 60px;
 }
 
 .topbanner {
@@ -12,24 +13,29 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     display: block;
-    height: 500px;
+    height: 550px;
 }
 
 .baby-header {
     text-align: center;
-    padding-top: 80px;
+    padding-top: 20px;
     width: 50%;
     padding-left: 240px;
+    color: aliceblue;
 }
 
 h1 {
-    color: white;
-    font-size: 50px;
+    font-size: 55px;
 }
 
 p {
-    color: white;
+    color: grey;
 
+}
+
+.donate-speech {
+    color: azure;
+    font-size: 20px;
 }
 
 .donate-button-01 {
@@ -40,4 +46,9 @@ p {
     padding: 10px 30px;
     border-radius: 5px;
 
+}
+
+h2 {
+    color: black;
+    font-size: 40px;
 }
