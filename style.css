@@ -3,35 +3,41 @@ body {
     margin: 0;
 }
 
+.main-header {
+    display: flex;
+}
+
 .topbanner {
     background-image: url(images/donation13.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     display: block;
-    height: 400px;
+    height: 500px;
 }
 
-.header {
+.baby-header {
     text-align: center;
     padding-top: 80px;
     width: 50%;
-    padding-left: 230px;
+    padding-left: 240px;
 }
 
 h1 {
-    color: aliceblue;
+    color: white;
+    font-size: 50px;
 }
 
 p {
-    color: aliceblue;
+    color: white;
+
 }
 
-.donate-button {
+.donate-button-01 {
     text-decoration: none;
     background-image: linear-gradient(#17CD92, #08b86f);
     color: white;
     font-weight: 700;
-    padding: 10px 40px;
-    border-radius: 7px;
+    padding: 10px 30px;
+    border-radius: 5px;
 
 }
