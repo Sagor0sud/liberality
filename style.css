@@ -115,3 +115,25 @@ h2 {
 .Donate-Planning-03-02 {
     background-color: antiquewhite;
 }
+
+.Contribute-01 {
+    display: flex;
+    margin-top: 150px;
+    text-align: center;
+}
+
+.half-width {
+    width: 50%;
+}
+
+.half-width img {
+    border-radius: 5px;
+    width: 80%;
+    padding-left: 4%;
+}
+
+
+.Contribute-02 {
+    display: flex;
+    margin-top: 150px;
+}
