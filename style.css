@@ -52,3 +52,34 @@ h2 {
     color: black;
     font-size: 40px;
 }
+
+.donate-money-part {
+    text-align: center;
+    width: 100%;
+}
+
+.donate-money-part-2 {
+    display: flex;
+}
+
+.donate-money-part-3 {
+    text-align: center;
+    width: 20%;
+    margin-left: 5%;
+    margin-right: 5%;
+    box-shadow: 10px 30px 40px gray;
+    border-radius: 10px;
+}
+
+.pure {
+    background-color: coral;
+    color: whitesmoke;
+
+}
+
+.donate-money-part-4 {
+    text-align: center;
+    padding-top: 20px;
+    width: 50%;
+    padding-left: 240px;
+}
