@@ -137,3 +137,32 @@ h2 {
     display: flex;
     margin-top: 150px;
 }
+
+.Update {
+    text-align: center;
+    width: 100%;
+    margin-top: 60px;
+}
+
+.Update-part-1 {
+    border-radius: 5px;
+    text-align: center;
+    display: flex;
+    width: 50%;
+    background-color: antiquewhite;
+    padding-top: 20px;
+    padding-left: 240px;
+
+}
+
+.Update-part-2 {
+    background-color: lightslategrey;
+    border-radius: 2px;
+
+
+}
+
+.Update-part-3 {
+    background-color: lightcoral;
+    border-radius: 2px;
+}
