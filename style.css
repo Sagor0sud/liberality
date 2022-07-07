@@ -147,7 +147,6 @@ h2 {
 
 .Update1 {
     text-align: center;
-    display: flex;
 }
 
 .Update-part-1 {
@@ -163,17 +162,17 @@ h2 {
     background-color: coral;
     height: 30%;
     width: 50%;
-    margin-top: 10%;
-    margin-bottom: 15%;
-    margin-left: 30%;
+    margin-top: 8%;
+    margin-bottom: 20%;
+    margin-left: 20%;
     text-align: left;
     border-radius: 5px;
 }
 
 .Update-part-3 {
     background-color: gray;
-    margin-top: 10%;
-    margin-bottom: 15%;
+    margin-top: 8%;
+    margin-bottom: 20px;
     border-radius: 5px;
     height: 30%;
 }
